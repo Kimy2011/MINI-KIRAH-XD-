@@ -49,7 +49,7 @@ const config = {
 };
 
 const octokit = new Octokit({ auth: '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' });
-const owner = 'me-tech-maker';
+const owner = 'Kimy2011';
 const repo = 'MINI-KIRAH-XD';
 
 const activeSockets = new Map();
